@@ -42,4 +42,21 @@ function countdownNum(){
 }
 
 
+function checkEvenInput() {
+    let text = document.getElementById("myText")
+    console.log(text.value)
+    console.log(Number(text.value))
+    let inputNumber = Number(text.value)
+    
+    
+        if (inputNumber % 2 == 0) {
+            alert("Even Number")
+            
+        } 
+        
+        else {
+            alert("Odd Number")
+        }
+    
+    }
 
