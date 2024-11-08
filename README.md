@@ -1,4 +1,4 @@
-# Welcome to CS 140: Computer Science Seminar - Web Development Unit!
+#  CS 140: Nov 8 Class Notes
 
 Hello, future developers! 🚀 This repository is your starting point for diving into the fascinating world of web development in our class. It's designed to make learning HTML, CSS, and JavaScript both engaging and effective. Let's create amazing in-class notes and projects together!
 
